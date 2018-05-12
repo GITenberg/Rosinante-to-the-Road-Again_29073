@@ -1,0 +1,32 @@
+_repo: Rosinante-to-the-Road-Again_29073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dos Passos, John
+    alias: Passos, John Dos
+    birthdate: 1896
+    deathdate: 1970
+    gutenberg_agent_id: '2015'
+    url: http://www.gutenberg.org/2009/agents/2015
+    wikipedia: http://en.wikipedia.org/wiki/John_Dos_Passos
+description: This 1922 work uses the resources of both fiction and travel writing
+  to channel the spirit of Don Quixote in its tale of two wanderers trekking on foot
+  from Madrid to Toledo in the aftermath of World War I. Chapters are interwoven with
+  critical and biographical essays of notable Spanish writers of the time.
+gutenberg_issued: '2009-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29073'
+  lccn: '22008409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Spain'
+title: Rosinante to the Road Again
+url: http://www.gutenberg.org/ebooks/29073
